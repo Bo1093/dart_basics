@@ -1,6 +1,7 @@
 void main(List<String> args) {
   final person = Person();
   print(person.fullName);
+  print(person.fullName);
   print(person.lastName);
   print(person.firstName);
   //print statement is only executed once
