@@ -1,5 +1,3 @@
-import 'package:test/test.dart';
-
 void main(List<String> args) {
   const names = ['Foo', 'Bar', 'Dextro', 'Money'];
   for (final name in names) {
